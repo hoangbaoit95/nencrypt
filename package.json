@@ -1,0 +1,23 @@
+{
+  "name": "nencrypt",
+  "version": "1.0.0",
+  "description": "A port of JSEncrypt to NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangbaoit95/nencrypt.git"
+  },
+  "keywords": [],
+  "author": "Hoang Bao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangbaoit95/nencrypt/issues"
+  },
+  "homepage": "https://github.com/hoangbaoit95/nencrypt#readme",
+  "dependencies": {
+    "get-random-values": "^1.2.0"
+  }
+}

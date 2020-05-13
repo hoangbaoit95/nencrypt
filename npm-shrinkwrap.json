@@ -1,0 +1,31 @@
+{
+  "name": "nencrypt",
+  "version": "1.0.0",
+  "dependencies": {
+    "dom-walk": {
+      "version": "0.1.2",
+      "from": "dom-walk@>=0.1.0 <0.2.0",
+      "resolved": "https://registry.npmjs.org/dom-walk/-/dom-walk-0.1.2.tgz"
+    },
+    "get-random-values": {
+      "version": "1.2.0",
+      "from": "get-random-values@latest",
+      "resolved": "https://registry.npmjs.org/get-random-values/-/get-random-values-1.2.0.tgz"
+    },
+    "global": {
+      "version": "4.4.0",
+      "from": "global@>=4.2.1 <5.0.0",
+      "resolved": "https://registry.npmjs.org/global/-/global-4.4.0.tgz"
+    },
+    "min-document": {
+      "version": "2.19.0",
+      "from": "min-document@>=2.19.0 <3.0.0",
+      "resolved": "https://registry.npmjs.org/min-document/-/min-document-2.19.0.tgz"
+    },
+    "process": {
+      "version": "0.11.10",
+      "from": "process@>=0.11.10 <0.12.0",
+      "resolved": "https://registry.npmjs.org/process/-/process-0.11.10.tgz"
+    }
+  }
+}
